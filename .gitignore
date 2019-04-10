@@ -1,0 +1,5 @@
+ssDatabaseHistory*
+*trace.txt
+job_history*
+*.pyc
+.vscode/*
